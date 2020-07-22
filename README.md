@@ -1,15 +1,16 @@
 # Hi there, I'm Bartolomej 👋
 
-<a href="https://twitter.com/mejkoz">
-  <img align="left" alt="Bartolomej | Twitter" width="20px" src="https://raw.githubusercontent.com/bartolomej/bartolomej/master/twitter.svg" />
-</a>
-<a href="https://instagram.com/mejkozorog">
-  <img align="left" alt="Bartolomej | Instagram" width="20px" src="https://raw.githubusercontent.com/bartolomej/bartolomej/master/instagram.png" />
-</a>
-<a href="https://linkedin.com/in/bartolomej">
-  <img align="left" alt="Bartolomej | LinkedIn" width="20px" src="https://raw.githubusercontent.com/bartolomej/bartolomej/master/linkedin.svg" />
-</a>
+<a href="https://twitter.com/bartolomej">
+    <img alt="Twitter: bartolomej" src="https://img.shields.io/twitter/follow/bartolomej.svg?style=flat-square&logo=TWITTER&logoColor=FFFFFF&labelColor=00aced&logoWidth=20&color=lightgray" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/mejkozorog/" aria-label="Follow Bartolomej on Instagram">
+    <img alt="Instagram: mejkozorog" src="https://img.shields.io/badge/@mejkozorog-E4405F.svg?style=flat-square&logo=INSTAGRAM&labelColor=000&logoWidth=20" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/bartolomej/" aria-label="Connect with Bartolomej Kozorog on LinkedIn">
+    <img alt="LinkedIn: bartolomej" src="https://img.shields.io/badge/connect-0077b5.svg?style=flat-square&logo=LINKEDIN&labelColor=000&logoWidth=20" target="_blank" />
+  </a>
 
+<br />
 <br />
 
 - 🔭 I’m currently exploring [generative art](https://bartolomej.github.io/generative-art/)
