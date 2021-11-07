@@ -11,8 +11,7 @@
   </a>
 <br />
 
-- I’m currently exploring [generative art](https://bartolomej.github.io/generative-art/)
-- I’m starting to contribute to open source for the first time
-- Ask me about anything [here](https://github.com/bartolomej/bartolomej/issues)
+<br />
 
-[![Bartolomej's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=bartolomej&title_color=e8495e&bg_color=16161f&text_color=abacbf)](https://github.com/anuraghazra/github-readme-stats)
+- I’m currently contributing to [flowser](https://github.com/onflowser/flowser)
+- Ask me about anything [here](https://github.com/bartolomej/bartolomej/issues)
