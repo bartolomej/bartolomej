@@ -6,7 +6,7 @@
 
 ```bash
 ➜  ~ whoami       
-Bartolomej Kozorog (people call me Bart)
+Bartolomej Kozorog (aka. Bart)
 ```
 
 What I'm currently up to:
